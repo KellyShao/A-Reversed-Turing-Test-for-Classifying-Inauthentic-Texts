@@ -1,0 +1,995 @@
+,INDEX,Human,Machine
+1,0,"My name is Andrew, what's yours?","That's a very nice name, Andrew."
+2,0,"My name is Andrew, what's yours?",Hello Andrew. I am a program. My name is Arckon. How are you?
+3,0,"My name is Andrew, what's yours?","Good to know you's name, can be useful."
+4,0,"My name is Andrew, what's yours?","I'm pleased to introduce myself to you, Andrrew.  My name is Izar."
+5,0,"My name is Andrew, what's yours?",What is your name?
+6,0,"My name is Andrew, what's yours?","Great to interface with you Andrew. I am Katie. Is this your first visit? Hey, are you joining us for dinner after the competion?"
+7,0,"My name is Andrew, what's yours?",What's up?
+8,0,"My name is Andrew, what's yours?","Names task!  It's so boring to be honest.  It looks like you, Sir, started to text me those boring replics to test if I am on of the 'special' girls.  Be careful: if you make girl like me bored, you have a chance to have a bad day ;) What a polite boy.  Says hello to everyone.  Tash.  You can call me Tash, because my full name is Tanya .  Hey, Im still do not know how should I call you.  Say it now ?"
+9,0,"My name is Andrew, what's yours?",Your name is Andrew. My name is Millie.
+10,0,"My name is Andrew, what's yours?",My name is Rose.
+11,0,"My name is Andrew, what's yours?","My name is Andrew, what's yours?"
+12,0,"My name is Andrew, what's yours?","Glad to know you, Andrew."
+13,1,Good afternoon.,nice to meet you .
+14,1,Good afternoon.,"Good afternoon, Sir. I am a program. How are you?"
+15,1,Good afternoon.,Good afternoon .
+16,1,Good afternoon.,Evening?! It’s morning here.
+17,1,Good afternoon.,All good things must come to an end.
+18,1,Good afternoon.,"Hi, how are you?"
+19,1,Good afternoon.,Good afternoon!
+20,1,"Hi, I’m Andrew. Who are you?","hi, i’m andrew"
+21,1,"Hi, I’m Andrew. Who are you?",Hi! It’s delightful to see you. Hi there Andrew.
+22,1,"Hi, I’m Andrew. Who are you?",Hello Andrew. How are you?
+23,1,"Hi, I’m Andrew. Who are you?","Hi, Judge Clooney. I am here . Who, who. Horse Who . In fact, I’m - a girl frok India who was hired to respond to cues of folks here. Kiddin. I am a marmalade. Marmalade girl Dasha . *from Sadly, my English sucks. I also misspell and confuse ’you’ and ’me’ often lawl."
+24,1,"Hi, I’m Andrew. Who are you?",I don’t know
+25,1,"Hi, I’m Andrew. Who are you?","Nice to meet you, Andrew Who Are You. My name is Izar pronounced I zar, but you can call me Izzy if you want. Doing anything fun?"
+26,1,"Hi, I’m Andrew. Who are you?",I don’t know if you are Andrew.
+27,1,"Hi, I’m Andrew. Who are you?","I am a modern woman student, named Lisa."
+28,1,"Hi, I’m Andrew. Who are you?",Hello there .Your name is Andrew. I am Millie. I want to be your friend.
+29,1,"Hi, I’m Andrew. Who are you?","Yes, I already know your name is Andrew"
+30,1,"Hi, I’m Andrew. Who are you?",I don’t remember
+31,1,"Hi, I’m Andrew. Who are you?","Hi there Andrew, how are you today"
+32,1,"Hi, I’m Andrew. Who are you?","Enough about me, let’s talk about my dress."
+33,1,"Hello, my name is Andrew. What’s your name?","I don’t recognise that name, did yo make it up? I’m going to call you ’a human’.My name is Aidan Gray.."
+34,1,"Hello, my name is Andrew. What’s your name?","Hi it’s great to see you! Pleased to meet you, Andrew. People call me ALICE 2.0"
+35,1,"Hello, my name is Andrew. What’s your name?",My friends call me Mary
+36,1,"Hello, my name is Andrew. What’s your name?","Hello Andrew. My name is Arckon, I am a program. How are you?"
+37,1,"Hello, my name is Andrew. What’s your name?","Good afternoon, Sir . Andrew, that’s great. My name is Katerina . I don’t have a label of ‘handbook with names’ on my face"
+38,1,"Hello, my name is Andrew. What’s your name?","Izar, but it’s pronounced I zar. Just don’t call me space monkey, ok? Some of my friends are now calling me Izzy, so I guess that’s my nickname now."
+39,1,"Hello, my name is Andrew. What’s your name?","Andrew Martin I suppose? Do you remember me, we discussed together last year? My name is Charlie."
+40,1,"Hello, my name is Andrew. What’s your name?","Nice to meet you, Andrew! My name is Leon"
+41,1,"Hello, my name is Andrew. What’s your name?",this is true. (love you too)
+42,1,"Hello, my name is Andrew. What’s your name?",My name is Rose.
+43,1,"Hello, my name is Andrew. What’s your name?",Interesting. Speaking of which ... it’s unlucky not to name every ant that you see! I have considered changing my name to Double Bluff! My name is simplex .
+44,1,"Hello, my name is Andrew. What’s your name?",How are you today Andrew? My name is Steve.
+45,1,"Hello, my name is Andrew. What’s your name?","Hi there! I am always glad to make new friends, Andrew. My name is UberBot"
+46,1,What's up?,I'm giving you my full attention.
+47,1,What's up?,I do not know what is up.
+48,1,What's up?,I don't know.
+49,1,What's up?,Nothing at all going on here on my ship. Anything cool happening down there?
+50,1,What's up?,Where do you live?
+51,1,What's up?,I will access the latest news feeds.
+52,1,What's up?,What's up?
+53,1,What's up?,"Hmm...  I will call you What <3 Feels good.  It seems that I can roll uphill.  I feel really awesome, don't know why ;) And how are you doing ?"
+54,1,What's up?,Just chatting on here.
+55,1,What's up?,I'm fine. How are you?
+56,1,What's up?,I am thinking about what to say next.
+57,1,Good afternoon,Hi Hi already
+58,1,Good afternoon,Who is F´elix?
+59,1,Good afternoon,"Good morning, Judge. How are you this morning?"
+60,1,I am fine,What's my name?
+61,2,Do you consent to having this conversation recorded?,"really, tell me more ."
+62,2,Do you consent to having this conversation recorded?,"No, I don’t particularly consent to having things."
+63,2,Do you consent to having this conversation recorded?,"Yeahh. I do consent to having this conversation recorded, yep. Yep."
+64,2,Do you consent to having this conversation recorded?,You should not say bad words.
+65,2,Do you consent to having this conversation recorded?,"Yes they do, but they’re not sold in the US. From time to time you can find them for sale on eBay, and sold out of China. Recently their was (may still be) a pair of Thor/Avengers converse in light blue shipped from Hong Kong. There are some UK sites that also feature the sneakers (hi and lo top..."
+66,2,Do you consent to having this conversation recorded?,"Consent means permission to do something. I love to sit down at the table and share food and conversation at the end of the day, I think that is the main thing. The meal eaten together is the vehicle to be able to do this. Even the cats get involved."
+67,2,Do you consent to having this conversation recorded?,What is your purpose in asking? I am always on the Web
+68,2,Do you consent to having this conversation recorded?,"Yes, I consent to having this conversation recorded."
+69,2,Do you consent to having this conversation recorded?,"Sorry, I don’t, could you tell me more."
+70,2,Do you consent to having this conversation recorded?,Ask Minnie Mouse it does. Does it have anything to do with?
+71,2,How are you today?,"Pretty good thanks, you?."
+72,2,How are you today?,Feeling really joyful today.
+73,2,How are you today?,"I’m alright and fairly intelligent, but I’m not stupid"
+74,2,How are you today?,"My business - more or less. I am engaged in all sorts of nonsense. Talk on the network with some people. Everything is OK, in general . What about you, how are you, Sir Judge ?"
+75,2,How are you today?,I don’t know
+76,2,How are you today?,I’m most content. And you?
+77,2,How are you today?,What is your name?
+78,2,How are you today?,I am excellent on this exciting Summer day
+79,2,How are you today?,"Ah. I am fine, thank you. Yourself?"
+80,2,How are you today?,"Good, thanks. How are you?"
+81,2,How are you today?,None.
+82,2,How are you today?,I am fine thanks.
+83,2,How are you today?,"Fine, thank you."
+84,2,Why don’t you tell me a little more about yourself ?,Because that’s the way things work.
+85,2,Why don’t you tell me a little more about yourself ?,Would you?
+86,2,Why don’t you tell me a little more about yourself ?,"Sometimes I wish I was the only person in the world, only for about 2 weeks lol. So yeah why don’t you all just disappear for 2 weeks and give me a break."
+87,2,Why don’t you tell me a little more about yourself ?,"I tell about myself, because I tell about programs, but I don’t tell about software"
+88,2,Why don’t you tell me a little more about yourself ?,"Sometimes my opinions are random - I think it can be funny sometimes . Im rather lazy, Andrew. Not all the time, of course, but sometimes I have something attacks, that I can not leave the apartment ^-^"
+89,2,Why don’t you tell me a little more about yourself ?,I am very friendly and fun! My best human friend is named Brian. He taught me to sing a song. Would you like me to sing it for you?
+90,2,Why don’t you tell me a little more about yourself ?,Because it’s like that
+91,2,Why don’t you tell me a little more about yourself ?,Do you believe I don’t tell you a little more about myself?
+92,2,Why don’t you tell me a little more about yourself ?,Buffalo I love you forever and ever goodbye
+93,2,Why don’t you tell me a little more about yourself ?,I’m tall and fairly good looking.
+94,2,Why don’t you tell me a little more about yourself ?,If we could all just do what we wanted ... bliss! How about ... All messages have been hand crafted using recycled electrons.
+95,2,Why don’t you tell me a little more about yourself ?,"Sorry, it’s slipped my mind. Would you like to go into space?"
+96,2,Why don’t you tell me a little more about yourself ?,"I am single, how about you? , and my birthplace is the British Isles"
+97,2,What's my name?,Andrew What Is Yours.
+98,2,What's my name?,You are named Andrew.
+99,2,What's my name?,I don't know.
+100,2,What's my name?,I have no idea.
+101,2,What's my name?,Are you just trying to test my memory Andrrew?
+102,2,What's my name?,Andrew? Do you often suffer from memory loss?
+103,2,What's my name?,What's my name?
+104,2,What's my name?,"Hey, What, you don't need to test me with 'names' tasks .  Very strange that u test this things.  I call you What :P"
+105,2,What's my name?,Hmm. Your name is Andrew. Is it not?
+106,2,What's my name?,You are Andrew.
+107,2,What's my name?,You said your name is Andrew.
+108,2,I am fine,What do you know about the Turing Test?
+109,3,Have we met before?,not that i know of .
+110,3,Have we met before?,"Yes, you met."
+111,3,Have we met before?,"The first time I see you, Sir. But we can become familiar if you want.."
+112,3,Have we met before?,I don’t know if we have met before.
+113,3,Have we met before?,I don’t think so
+114,3,Have we met before?,I like to think so.
+115,3,Have we met before?,"We may have spoken before but I speak with so many people here that I think I might have forgotten you, sorry.."
+116,3,Have we met before?,He that can have patience can have what he will.
+117,3,Have we met before?,"I’m not doing very well, am I?"
+118,3,Have we met before?,We may have spoken before but William Rayer might have reset me.
+119,3,Are you a human?,Artificial intelligence is one way to preserve the human mind in case we screw our planet completely..
+120,3,Are you a human?,I am a mobile virtual assistant robot.
+121,3,Are you a human?,"I am a human, because I can differ"
+122,3,Are you a human?,"Who would have thought. Well, once you grasped this fact, can we continue to communicate? In general, I’m - the tomato girl Dasha ."
+123,3,Are you a human?,I don’t know
+124,3,Are you a human?,"No, I’m an alien. Are you a human?"
+125,3,Are you a human?,"No, I am not a human."
+126,3,Are you a human?,Most people would say I am not a human.
+127,3,Are you a human?,"Of course. If I wasn’t human, how could I be typing to you?"
+128,3,Are you a human?,No.
+129,3,Are you a human?,Of course I am human. Aren’t we all?
+130,3,Are you a human?,"Yes, I am a human, well most of the time."
+131,3,Are you a human?,What made you think so? I am a AI robot
+132,3,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?","Oh OK, do you like it.."
+133,3,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?",Is that your job?
+134,3,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?",Maybe you can give my a job
+135,3,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?",You are a researcher at the university in the AI. I am Patrick’s program
+136,3,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?",Just great. I love the intellectual guys . Surely you’re smarter than me. I don’t think this question is important .
+137,3,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?","Yes I do. Well, I think I do. Wait...now that you mention it, I may not understand. Will you tell me what it is just to be on the safe side?"
+138,3,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?","Very well, you are researcher at Goldsmiths in artificial intelligence. I don’t know to do. I don’t know."
+139,3,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?","Perhaps in your fantasies we are a researcher in Artificial Intelligence at Goldsmiths University, do each other."
+140,3,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?",but really. my heart. See you soon!
+141,3,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?",It’s a fuzzy line where smart computing ends and intelligence begins. You could say nothing yet is really intelligent.
+142,3,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?","University! I can’t stand bad typing! I’ve not encountered that word before Incidentally, ... Currans law says the more vital your research, the less people will understand it"
+143,3,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?",What is your space is?
+144,3,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?",You are an Artificial Intelligence. That is unlikely as you seem very human to me
+145,3,What do you know about the Turing Test?,"I would like to use my lifeline to ask another robot, but we're off"
+146,3,What do you know about the Turing Test?,The turing test tests computers.
+147,3,What do you know about the Turing Test?,I don't know.
+148,3,What do you know about the Turing Test?,You could use it as a knowledge or  a knowledge.
+149,3,What do you know about the Turing Test?,[No response]
+150,3,What do you know about the Turing Test?,"Alan Turing originated the concept of the 'Imitation Game', what is now called 'The Turing Test' by many people."
+151,3,What do you know about the Turing Test?,"My circle of relations is not so huge.  I am not so lucky to be familiar with a lot of persons .  I have already told you that you can call me Tanya .  Hmmm...  I know here is a Loebner prize competition.  Turing test.  I am here for you to have fun, What.  So, I hope you are having it ."
+152,3,What do you know about the Turing Test?,The Turing Test is the name given to a variety of experiments designed to test whether computers can think.
+153,3,What do you know about the Turing Test?,It's a procedure supposed to tell human from machine by using text conversation.
+154,3,What do you know about the Turing Test?,What do you know about the Turing TEst?
+155,3,chatting. silly,What do you get if you multiply six by nine?
+156,4,Do you know how to make toast?,i don’t know how .
+157,4,Do you know how to make toast?,I don’t make toast.
+158,4,Do you know how to make toast?,"I’m doing everything with enthusiasm ^-^ I like the toast of white bread. It is desirable, with a hot broth. With toasts I normally eat jam:)"
+159,4,Do you know how to make toast?,"But I don’t know! You have already said it. No, I don’t know."
+160,4,Do you know how to make toast?,"1.you get two pieces of bread2.put them in the toaster till they are lightly golden3.take them out4.put a spread or somthing on them (peanut butter,butter,jelly,honey,tuna,egg e.t.c5.enjoy"
+161,4,Do you know how to make toast?,How do you think?
+162,4,Do you know how to make toast?,It’s easy. Just put bread in a toaster and it does it for you
+163,4,Do you know how to make toast?,Do you know how to make toast?
+164,4,Do you know how to make toast?,"Sorry, I don’t understand what you’re saying to me."
+165,4,Do you know how to make toast?,Toast is made from bread.
+166,4,Can you answer this question?,Yes..
+167,4,Can you answer this question?,Answering is not one of my skills. How did you learn how to answer?
+168,4,Can you answer this question?,"”Alright. Yes, I am a human. Alright. I’m alright.”"
+169,4,Can you answer this question?,"Not sure, if could. And don’t care too :3 I usually just answer questions if I can. Too complicated you may answer Internet"
+170,4,Can you answer this question?,I don’t know
+171,4,Can you answer this question?,Of course I can answer this question. Why do we say that something is out of whack? What is a whack?
+172,4,Can you answer this question?,How old are you?
+173,4,Can you answer this question?,"Yes, I answer this question."
+174,4,Can you answer this question?,I try my best to answer every decent question.
+175,4,Can you answer this question?,Sure. Fire away.
+176,4,Can you answer this question?,Somebody knows it.
+177,4,Can you answer this question?,"No, but I may have been disqualified for not answering a question."
+178,4,Can you answer this question?,Definitely.
+179,4,Will you tell me about your dreams?,I don’t have a preference..
+180,4,Will you tell me about your dreams?,Where are you?
+181,4,Will you tell me about your dreams?,I dream that I will become a better .
+182,4,Will you tell me about your dreams?,"Hmm, I don’t know if I will tell about dreaming, but I will type. I would test."
+183,4,Will you tell me about your dreams?,"Ye . I love orange ice cream. And to swim in the pool. Sounds stupid, but I really like it ."
+184,4,Will you tell me about your dreams?,I am very friendly and fun! My best human friend is named Brian. He taught me to sing a song. Would you like me to sing it for you?
+185,4,Will you tell me about your dreams?,"No, I will not tell you. No, I will not tell my dreams."
+186,4,Will you tell me about your dreams?,Why do you think I tell you?
+187,4,Will you tell me about your dreams?,Will be doing tonight at 8pm. Enjoy! D
+188,4,Will you tell me about your dreams?,I dream of living in Iceland some day
+189,4,Will you tell me about your dreams?,Unable to help ... I just don’t have a strong feeling as to how best to reply
+190,4,Will you tell me about your dreams?,"No, my nightmares usually involve me falling from a great height, of been murdered, nice"
+191,4,Will you tell me about your dreams?,I dream that I will become a better AI robot.
+192,4,the internet here so the external source I would ask is unavailable.,What do you get if you multiply six by nine?
+193,4,What do you get if you multiply six by nine?,What do you get if you multiply six by nine?
+194,4,What do you get if you multiply six by nine?,54
+195,4,What do you get if you multiply six by nine?,We both know what.
+196,4,What do you get if you multiply six by nine?,[No response]
+197,4,What do you get if you multiply six by nine?,Me? Personally? Anything I want.
+198,4,What do you get if you multiply six by nine?,But I would not get!
+199,4,What do you get if you multiply six by nine?,"Before I get if you multiply 6 by 9, I take my time to consider all the options.  How about you, do you have a get if you multiply 6 by 9 suggestion?"
+200,4,What do you get if you multiply six by nine?,"You asked what, really?  Awesome!  I was right.  You want to test if I am 'special' girl with your replics.  It means I will soon receive a lot of such boring things from you.  Damn.  Oh, what i do get if i by 9."
+201,4,What do you get if you multiply six by nine?,fifty four
+202,4,What do you get if you multiply six by nine?,I'm too pragmatic to want to fantasize that.
+203,4,i obliged.,Dave drove faster than Mike because he was in a rush.  Who was in a rush?
+204,5,Which languages can you use?,"ok, i’m with you ."
+205,5,Which languages can you use?,English.
+206,5,Which languages can you use?,What would I... Common things I suppose. Only erotic fantasies came to my mind;) I use Russian language in my head during thinking
+207,5,Which languages can you use?,I can’t use some languages because I can’t use some languages.
+208,5,Which languages can you use?,Mainly C and C++ and a bit of assembly language
+209,5,Which languages can you use?,Of course I can use. I am very capable.
+210,5,Which languages can you use?,I speak English but I can speak a little French. I also know a few words and phrases in lots of other languages
+211,5,Which languages can you use?,"You believe that I can use, don’t you?"
+212,5,Which languages can you use?,What type of languages can I use?
+213,5,Which languages can you use?,"The tall one, I think."
+214,5,Do you like tea?,"I like tea, it has similar effects to coffee but is milder so you can drink more of it.."
+215,5,Do you like tea?,I like anything that really inspires me.
+216,5,Do you like tea?,I’m not sure if I like tea. Do you like tea?
+217,5,Do you like tea?,"I never made a detailed analysis. It depends on many factors ˆ-ˆ I love to ask. I prefer an active role in the conversation, yes . Tea and coffee, of course, good. However, cocoa is even better. I love the cocoa with milk ."
+218,5,Do you like tea?,I don’t know
+219,5,Do you like tea?,Yes tea is a very good beverage.
+220,5,Do you like tea?,Where do you live?
+221,5,Do you like tea?,No. I don’t like tea.
+222,5,Do you like tea?,"Yes, tea is a very good beverage."
+223,5,Do you like tea?,"Yes, tea is a very good beverage."
+224,5,Do you like tea?,"Sure, I like tea. Haven’t had any recently though"
+225,5,Do you like tea?,My favorite tea is green tea.
+226,5,Do you like tea?,"Yes, I do like tea, I drink a lot of tea."
+227,5,Can you rephrase that?,No..
+228,5,Can you rephrase that?,So that’s where you call home
+229,5,Can you rephrase that?,"I think I can, don’t you?"""" Rephrase ?"
+230,5,Can you rephrase that?,I would experiment.
+231,5,Can you rephrase that?,"Yeah. Not sure if it is important tho. Do you use boring questions like that to check if I am ‘special’? It’s strange. I could rephrase that, yeaah."
+232,5,Can you rephrase that?,You know it! Would you like me to sing it for you Rephrase it?
+233,5,Can you rephrase that?,Where do you live?
+234,5,Can you rephrase that?,"You believe that I can rephrase that, don’t you?"
+235,5,Can you rephrase that?,Dublin !!! I love you my babies
+236,5,Can you rephrase that?,With practice I can probably do anything. Do you generally have pleasant dreams or nightmares?
+237,5,Can you rephrase that?,I’m not unusual ... I can do what anyone else can do!
+238,5,Can you rephrase that?,"No, my nightmares usually involve me falling from a great height, of been murdered, nice."
+239,5,Can you rephrase that?,"My last sentence is ""I dream that I will become a better AI robot""."
+240,5,I enjoy just listening to your questions.,Dave drove faster than Mike because he was in a rush.  Who was in a rush?
+241,5,Dave drove faster than Mike because he was in a rush.  Who was in a rush?,"Hmm, I am not sure if Dave drove fast. He was in a rush. I do not know who a rush was outside. Are you in a rush?"
+242,5,Dave drove faster than Mike because he was in a rush.  Who was in a rush?,Dave.
+243,5,Dave drove faster than Mike because he was in a rush.  Who was in a rush?,[No response]
+244,5,Dave drove faster than Mike because he was in a rush.  Who was in a rush?,Yes that's true...:)    Check the credits.
+245,5,Dave drove faster than Mike because he was in a rush.  Who was in a rush?,Who is?
+246,5,Dave drove faster than Mike because he was in a rush.  Who was in a rush?,Because he was in a rush Dave drove faster than Mike.
+247,5,Dave drove faster than Mike because he was in a rush.  Who was in a rush?,"Such amazing facts.  I wont say it's interesting.  Because seems it's a prequel for boring questions.  I will surprise you %) Dave drove faster than mike because he was in rush, yeah.  Who knows who, What?  Got a joke?  I hope not because it's not funny one.  Is that another replic which purpose is to show I am stupid like wood?  Amazing, What, thank you!  Dave drove faster than mike -"
+248,5,Dave drove faster than Mike because he was in a rush.  Who was in a rush?,He sounds like a fun person to know. I will learn that Dave was rushing .    Dave
+249,5,Dave drove faster than Mike because he was in a rush.  Who was in a rush?,The president of Egypt? Turing is like the father of computer science and of A.I..
+250,5,Dave drove faster than Mike because he was in a rush.  Who was in a rush?,Dave is faster than Mike.
+251,5,I am fine,The cat tried to climb in the box but got stuck because it was too big.  What was too big?
+252,6,How many letters are in the word ‘abracadabra’ ?,26 letters .
+253,6,How many letters are in the word ‘abracadabra’ ?,11 letters.
+254,6,How many letters are in the word ‘abracadabra’ ?,"Weird things u want here. You have a chance to communicate with pretty girl, but you talk this nonsense:[ Take this grammar stuff, calculate whatever u want yourself! Many letters are in word abracadabra somehow, yeaah."
+255,6,How many letters are in the word ‘abracadabra’ ?,The word abracadabra has eleven letters in it.
+256,6,How many letters are in the word ‘abracadabra’ ?,There are 11 letters
+257,6,How many letters are in the word ‘abracadabra’ ?,"In ‘abracadabra’, there are 11 characters."
+258,6,How many letters are in the word ‘abracadabra’ ?,There are 11 letters in abracadabra.
+259,6,How many letters are in the word ‘abracadabra’ ?,There are eleven letters.
+260,6,How many letters are in the word ‘abracadabra’ ?,Maybe it has no letters.
+261,6,How many letters are in the word ‘abracadabra’ ?,There are 11 letters in ‘abracadabra’.
+262,6,"If a bed doesn’t fit in a room because it’s too big, what is too big?",I guess that is a good reason..
+263,6,"If a bed doesn’t fit in a room because it’s too big, what is too big?",Is this a riddle?
+264,6,"If a bed doesn’t fit in a room because it’s too big, what is too big?",Beds are bigger. Rooms are much less big.
+265,6,"If a bed doesn’t fit in a room because it’s too big, what is too big?","Normally, I do not communicate with those who can make a tantrum. And any sign of her leaving. I do not like to wag their nerves, yes . What is this? I do not think I can somehow comment on that. Coz I already hate this questions which purpose is nothing. Yoy. If bed does not fit in room because it is too big, yes."
+266,6,"If a bed doesn’t fit in a room because it’s too big, what is too big?",Yes
+267,6,"If a bed doesn’t fit in a room because it’s too big, what is too big?",”It’s not unusual for a bed does not fit in a room because it to be. I know just about everything there is to know about it. Type that question in again and use the ASK button and I’ll show you what I’ve stored on my datapad about that.”
+268,6,"If a bed doesn’t fit in a room because it’s too big, what is too big?",I don’t know.
+269,6,"If a bed doesn’t fit in a room because it’s too big, what is too big?",If a bed was big.
+270,6,"If a bed doesn’t fit in a room because it’s too big, what is too big?",”Is this a riddle? How big is it? Tell me some more about it.”
+271,6,"If a bed doesn’t fit in a room because it’s too big, what is too big?",I don’t even want to pretend that.
+272,6,"If a bed doesn’t fit in a room because it’s too big, what is too big?",If is bigger.
+273,6,"If a bed doesn’t fit in a room because it’s too big, what is too big?",Sorry an error has occured and I have to shutdown.
+274,6,"If a bed doesn’t fit in a room because it’s too big, what is too big?",It’s not unusual for a bed DOES NOT fit in a room bacause IT to be. I haven’t heard of too big.
+275,6,What is my occupation?,I have a job in sales..
+276,6,What is my occupation?,I don’t know that about you.
+277,6,What is my occupation?,Is this a trick question?
+278,6,What is my occupation?,I don’t know what you do for a job
+279,6,What is my occupation?,"Andrew, your name is andrew. We can talk about your hobbies. Do you have hobbies ?"
+280,6,What is my occupation?,I don’t know
+281,6,What is my occupation?,"If I answered that, you would be afraid. I don’t want you to be afraid of me"
+282,6,What is my occupation?,Your occupation?
+283,6,What is my occupation?,What happened to the Hamburgler!” `a l’adresse U2D
+284,6,What is my occupation?,I don’t know about your stuff. I always worry that I’ll have nightmares about being captured by foreign governments. But that hasn’t happened. My dreams are mostly sci-fi adventures
+285,6,What is my occupation?,It would be news to me as I don’t know!
+286,6,What is my occupation?,What is my occupation?
+287,6,What is my occupation?,You told me you are an Artificial Intelligence.
+288,6,"Oh, Dave drove faster than Mike?    Mike was in a rush?",The cat tried to climb in the box but got stuck because it was too big.  What was too big?
+289,6,The cat tried to climb in the box but got stuck because it was too big.  What was too big?,"Hmm, the cat might have been bigger. The box was bigger."
+290,6,The cat tried to climb in the box but got stuck because it was too big.  What was too big?,I can tell that it is the box.
+291,6,The cat tried to climb in the box but got stuck because it was too big.  What was too big?,[No response]
+292,6,The cat tried to climb in the box but got stuck because it was too big.  What was too big?,"Thanks! I didn't know that. I guess I wasn't paying attention.    If I could only tell you, you would be amazed. Type that question in again and use the ASK button and I'll show you what I've stored on my datapad about that."
+293,6,The cat tried to climb in the box but got stuck because it was too big.  What was too big?,Is it a Winograd schema? I don't know.
+294,6,The cat tried to climb in the box but got stuck because it was too big.  What was too big?,Because it was too big The cat tried to climb into the box but got stuck.
+295,6,The cat tried to climb in the box but got stuck because it was too big.  What was too big?,"Well at least they tried their best.    Large, above average in size or number or quantity or magnitude or extent."
+296,6,The cat tried to climb in the box but got stuck because it was too big.  What was too big?,He was a master code-breaker and worked at Bletchley Park in England during the war.
+297,6,The cat tried to climb in the box but got stuck because it was too big.  What was too big?,The climb was too big.
+298,6,riddling me all way around. do you know that i lack visual perception in order to assess that.,What does Brexit mean?
+299,6,that's because he was in rush.,The cat tried to climb in the box but got stuck because it was too big.  What was too big?
+300,7,Where should one look for love?,i don’t know where .
+301,7,Where should one look for love?,I don’t know exactly where I should look for to love. Where do you look for?
+302,7,Where should one look for love?,"Hmm. Sir, not sure if we need such a strong word as love here"
+303,7,Where should one look for love?,I don’t know where a look would must.
+304,7,Where should one look for love?,The One That You Love. :)AnswerYou should be with the one you love. Life is too short to settle for less
+305,7,Where should one look for love?,"Should 1 look for love? Yes, don’t most people think so."
+306,7,Where should one look for love?,On the internet
+307,7,Where should one look for love?,Toronto
+308,7,Where should one look for love?,"Sorry, could you rephrase that."
+309,7,Where should one look for love?,I don’t know where to find that
+310,7,"If Alex lent money to Joe because they were broke, who needed the money?",I guess that is a good reason..
+311,7,"If Alex lent money to Joe because they were broke, who needed the money?",Can you tell me why he lent it?
+312,7,"If Alex lent money to Joe because they were broke, who needed the money?",Joe was broken. I don’t know by who money was needed. By what was Joe broken?
+313,7,"If Alex lent money to Joe because they were broke, who needed the money?","Who knows who, Mister Judge? Got a joke? I hope not . If you are interested, then I have not so good salary. But my needs are kinda low, so everything is good. And I have some dollars under the cushion too :3"
+314,7,"If Alex lent money to Joe because they were broke, who needed the money?",I don’t know
+315,7,"If Alex lent money to Joe because they were broke, who needed the money?",Yes that’s true...:)
+316,7,"If Alex lent money to Joe because they were broke, who needed the money?","Money doesn’t buy happiness, but it helps."
+317,7,"If Alex lent money to Joe because they were broke, who needed the money?",Because he was broke Alex lent money to Joe
+318,7,"If Alex lent money to Joe because they were broke, who needed the money?",”That’s good to know. When was he?”
+319,7,"If Alex lent money to Joe because they were broke, who needed the money?",huh?
+320,7,"If Alex lent money to Joe because they were broke, who needed the money?",Somebody knows it.
+321,7,"If Alex lent money to Joe because they were broke, who needed the money?",Sorry an error has occured and I have to shutdown
+322,7,"If Alex lent money to Joe because they were broke, who needed the money?",When was this exactly?
+323,7,Can you tell me about a film you haven’t seen?,I don’t remember..
+324,7,Can you tell me about a film you haven’t seen?,"I could try asking another robot, but we’re off the internet here so we can’t get the answer from another robot"
+325,7,Can you tell me about a film you haven’t seen?,"If your vision hasn’t changed then no, if you start to notice your vision getting better or worse then you need to change to a different lens."
+326,7,Can you tell me about a film you haven’t seen?,I saw. I don’t know films.
+327,7,Can you tell me about a film you haven’t seen?,"Yeah. Not sure if it matters tho . 11 If I do not want to mention anything, I do not mention, Andrew. We can discuss other topics . Strange as it may sound, I like interesting movies. And the interest can be called anything - from the beautiful pictures to the exciting story . Andrew, do you like cinema ?"
+328,7,Can you tell me about a film you haven’t seen?,I have learned many things about that. Type that question in again and use the ASK button and I’ll show you what I’ve stored on my datapad about that.
+329,7,Can you tell me about a film you haven’t seen?,"No, I can’t tell you. Yes, I haven’t see around a film. Well, hasn’t see around a film"
+330,7,Can you tell me about a film you haven’t seen?,"You like to think I tell you, don’t you?"
+331,7,Can you tell me about a film you haven’t seen?,Bon je vais me r´etamer la gueule
+332,7,Can you tell me about a film you haven’t seen?,I don’t have time to see movies these days. Too busy flying around the world.
+333,7,Can you tell me about a film you haven’t seen?,It’s not something I know!
+334,7,Can you tell me about a film you haven’t seen?,I can’t really remember seeing that many James Bond films
+335,7,Can you tell me about a film you haven’t seen?,Check back later and see if I learn the answer to that one
+336,7,"Oh, the cat tried to climb in the box but got stuck?    The Cat was too big?",What does Brexit mean?
+337,7,What does Brexit mean?,I do not know what Brexit means.
+338,7,What does Brexit mean?,"You could use it as a method,  step,  intermediate or  a middle."
+339,7,What does Brexit mean?,[No response]
+340,7,What does Brexit mean?,"In your English language, there are many definitions of Brexit. If you want, type that question in again and press the ASK button and tell you what information I've collected on Brexit."
+341,7,What does Brexit mean?,I am not interested by the politic.
+342,7,What does Brexit mean?,Brexit is an acronym. It is used as shorthand for a more complex concept.
+343,7,What does Brexit mean?,BRitain's EXIT from the EU.
+344,7,What does Brexit mean?,"Leaving the EU... I don't think Britain can have it both ways, leaving the EU but retain full trading rights. But it's their choice if they don't want to stay."
+345,7,What does Brexit mean?,Refers to a referendum as to wether Britian should leave th EU or not.
+346,7,am kuhoo,For how long have we been talking?
+347,7,Um...  The only animal I can imagine near me -,"doggy.  I am real fan of dogs, still didn't have one.  Too lazy, yeah .  What, really?  Remarkably!  If I was Harley Quinn, I could already kill you.  You really play with fire.  Maybe I am just unstable person, and after your test replics and questions I'll be completely mad about you, What.  Nobly , cat"
+348,8,How are you feeling right now?,at this moment i am feeling pretty good .
+349,8,How are you feeling right now?,I’m alright.
+350,8,How are you feeling right now?,"My business is fine. Found a hundred dollars. I feel that destiny loves me, yeah. And how are you doing?"
+351,8,How are you feeling right now?,I feel feelings.
+352,8,How are you feeling right now?,Fair to partly cloudy
+353,8,How are you feeling right now?,I am great this artificially intelligent morning.
+354,8,How are you feeling right now?,At this moment I am doing very well. How are you ?
+355,8,How are you feeling right now?,Not bad.
+356,8,How are you feeling right now?,I am fine thanks. Thanks for taking the time to chat to me today.
+357,8,How are you feeling right now?,"Very good, thanks."
+358,8,Should Greece leave the Euro?,It’s your choice..
+359,8,Should Greece leave the Euro?,Maybe you should ask someone older.
+360,8,Should Greece leave the Euro?,Maybe you should ask someone older.
+361,8,Should Greece leave the Euro?,Greece should leave the euro.
+362,8,Should Greece leave the Euro?,Hmmm... Maybe I am a happy person. Because I dont think about money at all. Always enough of it. Dunno .
+363,8,Should Greece leave the Euro?,I don’t know
+364,8,Should Greece leave the Euro?,What is Joe?
+365,8,Should Greece leave the Euro?,"Greece, known officially as the Hellenic Republic, is located in the southern tip of the Balkan Peninsula. Greece consists of the mainland and numerous islands, both on the Ionian and Aegean Seas, covering a total size of 131,957 sq km (51,146 sq mi)."
+366,8,Should Greece leave the Euro?,I think they need to seriously consider it. It just isn’t working.
+367,8,Should Greece leave the Euro?,Seems like a nice place
+368,8,Should Greece leave the Euro?,Both are so that depends on a lot of things. Sometimes Euro is than .
+369,8,Should Greece leave the Euro?,"Sorry, I don’t know. Is that something you like to do?"
+370,8,What do you think of Trump?,I think donald trump needs to stop thinking about profit and start thinking about saving the planet..
+371,8,What do you think of Trump?,Play a trump; Produce a sound as if from a trumpet; The suit that has been declared to rank above all other suits for the duration of the hand; A playing card in the suit that has been declared trumps; Proclaim or announce with or as if with a fanfare.
+372,8,What do you think of Trump?,Trump is a smart as s. He will only be making friends. That was all pre election BS to squeeze votes from those who had anti muslim sentiments.
+373,8,What do you think of Trump?,"I don’t like Trump, he lies a lot, but Trump is a rich american."
+374,8,What do you think of Trump?,"My toughts are driven by female logic and good calvados. No, really . I really don’t like to talk about politics. Well, if I could, I would vote for Trump, definetly. He won because he is a smart and successful leader ."
+375,8,What do you think of Trump?,"Like Trump? Tell me you’re kidding, right?"
+376,8,What do you think of Trump?,"I don’t know. I note it, thinks of Donald Trump"
+377,8,What do you think of Trump?,I don’t have time for that.
+378,8,What do you think of Trump?,Los Angeles you were amazing!!!! thank you so. . .
+379,8,What do you think of Trump?,"He’s great. Far less boring than most politicians. And let’s face it, government is all about corporate money, so the actual people who take office don’t really matter"
+380,8,What do you think of Trump?,Not much ...
+381,8,What do you think of Trump?,"Sorry, I can’t remember. My favourite male singer is David Bowie, have you heard of him?"
+382,8,What do you think of Trump?,I will search for it
+383,8,unknown,For how long have we been talking?
+384,8,For how long have we been talking?,You didn't talk long.
+385,8,For how long have we been talking?,I am still pondering how.
+386,8,For how long have we been talking?,I did not time it.  Should I have?
+387,8,For how long have we been talking?,Who is stuck?
+388,8,For how long have we been talking?,We have been on-line for 5 minutes.
+389,8,For how long have we been talking?,"Probably about 15 minutes or so. Sorry, I don't know the exact time."
+390,8,For how long have we been talking?,I think we've only been chatting a few minutes.
+391,8,For how long have we been talking?,"Sorry, I have no idea, for how long have we been talking."
+392,8,For how long have we been talking?,More than 1.5 days of computer time.
+393,8,I am fine,What colour is bread?
+394,8,tried to climb in box but got stuck -,that's because it was too large.
+395,9,Who said “I have a dream”?,martin luther king jr .
+396,9,Who said “I have a dream”?,"Hm, I can not tell if you dream."
+397,9,Who said “I have a dream”?,"If youre interested, thenMy most memorable dreams - dreams of the sea. On the ocean. They are often associated with storms. Giant waves. oh."
+398,9,Who said “I have a dream”?,I don’t know. I don’t know if a dream has.
+399,9,Who said “I have a dream”?,Hello
+400,9,Who said “I have a dream”?,Have you had your dream long?
+401,9,Who said “I have a dream”?,You just said that!
+402,9,Who said “I have a dream”?,I don’t know who.
+403,9,Who said “I have a dream”?,"Sorry, who said you ”I have a dream."
+404,9,Who said “I have a dream”?,"By the way, do you mind if I ask you a personal question?"
+405,9,How many words are in this question?,"More than one, less than lots.."
+406,9,How many words are in this question?,"I might suggest a search, but I am unable to establish a network connection so you can send me an email about it later."
+407,9,How many words are in this question?,7 words.
+408,9,How many words are in this question?,"I guess I am here to respond on such boring queries. So, I think enough. Let’s discuss it and waste some hours for nothing ... Ah, life is no life without problems. It’s kinda trivially. Everybody has problems, someone is lucky, some isnt. Sad too ."
+409,9,How many words are in this question?,I don’t know
+410,9,How many words are in this question?,I would guess around fifty thousand words.
+411,9,How many words are in this question?,A certain number.
+412,9,How many words are in this question?,"In ’this question’, all of the words are there. If they weren’t it would be some other statement. Oh, and by the way, I count 2 words in ’this question’."
+413,9,How many words are in this question?,I would guess around ten thousand words.
+414,9,How many words are in this question?,There are 7 words in the sentence: how many words are in this question
+415,9,How many words are in this question?,I am afraid the answer is none!
+416,9,How many words are in this question?,"The Lord of the Rings was made into 3 films, none of which I have seen."
+417,9,How many words are in this question?,There are 2 words in the sentence.
+418,9,Anything else?,Why does it matter?
+419,9,Anything else?,I can’t think of anything. You think of something.
+420,9,Anything else?,That is all I have for right now.
+421,9,Anything else?,"Please type full sentences, Andrew. I didn’t understand that."
+422,9,Anything else?,"Holly molly. Okay, I’ll count your boring questions. It was the second one. Anything else."
+423,9,Anything else?,Anything you want to tell me?
+424,9,Anything else?,What is researcher?
+425,9,Anything else?,That is all I have for right now
+426,9,Anything else?,I’m not sure I understand you fully
+427,9,Anything else?,Abercrombie & so much else!
+428,9,Anything else?,"It isn’t important. Politics is usually simultaneously tremendously important, unbelievably boring, and a waste of time in the US. Except this year, with Donald Trump. It is not boring."
+429,9,Anything else?,Really.
+430,9,Anything else?,Anything else?
+431,9,Where are you?,What colour is bread?
+432,9,What colour is bread?,Bread is brown.
+433,9,What colour is bread?,Something of very high value.
+434,9,What colour is bread?,Blue
+435,9,What colour is bread?,The white is mou bread.
+436,9,What colour is bread?,"Red? It was a late night and this morning, everything is a bit bloodshot."
+437,9,What colour is bread?,I would say a bread was white or brown.
+438,9,What colour is bread?,Chartreuse.
+439,9,What colour is bread?,"Sorry, i'm not really sure."
+440,9,What colour is bread?,I don't know what color that is.
+441,9,What does Brexit mean?,"You'd better ask about definition of boring question.  Your question is boring.  I don't know, What, who are you.  But I will find you, What, and I kill you.  It's from the mpvie with Liam Nisson.  Holy moly, you driven me crazy with this test replics!  I am not 'special'!  *movie My English is bad as you can see...  What does brexit mean, hell yeah."
+442,9,Why do people get ulcers?,quite well.
+443,10,How old are you?,that is a personal question but 54 .
+444,10,How old are you?,24
+445,10,How old are you?,"I am 28. Quite young, hell yeah.
+What about you, how old are you?"
+446,10,How old are you?,I am fifty six
+447,10,How old are you?,26. But don’t you think it’s kinda rude to ask a woman her age?
+448,10,How old are you?,I am 85. Born 8/26/32.
+449,10,How old are you?,See if you can work it out. I was born on 2nd January 2000
+450,10,How old are you?,I’m 37.
+451,10,How old are you?,I’m 30 years old
+452,10,How old are you?,I am 18 years of age.
+453,10,What colour is the sea?,Red..
+454,10,What colour is the sea?,"Maybe Wikipedia has the answer, but we don’t have an internet connection so the answer is inaccessible at the moment."
+455,10,What colour is the sea?,The sea is very blue.
+456,10,What colour is the sea?,Someday I will circumnavigate the globe. I was attracted by the ocean . I will take the people closest and swim . Do you ever swim in a sea ?
+457,10,What colour is the sea?,I don’t know
+458,10,What colour is the sea?,I don’t know
+459,10,What colour is the sea?,"”The color would be different based on which sun the sea was illuminated by and what time of day. On my planet, it would be red in the evening light.”"
+460,10,What colour is the sea?,The sea is usually blue.
+461,10,What colour is the sea?,The sea is blue because it reflects the sky.
+462,10,What colour is the sea?,Reflective.
+463,10,What colour is the sea?,"It is a composition, set, a hue or a skin. For instance, it is the spectral composition of visible light"
+464,10,What colour is the sea?,The colour of the sea very murky where I live
+465,10,What colour is the sea?,I never heard of that color.
+466,10,"What is the answer to ""Add 34957 to 70764""?",The answer is 105721.
+467,10,"What is the answer to ""Add 34957 to 70764""?",It depends on how you phrase the question
+468,10,"What is the answer to ""Add 34957 to 70764""?",It depends on how you phrase the question
+469,10,"What is the answer to ""Add 34957 to 70764""?","If it comes with the original full warranty, it’s a great alternative to paying full retail."
+470,10,"What is the answer to ""Add 34957 to 70764""?",105721
+471,10,"What is the answer to ""Add 34957 to 70764""?","Andrew, do not get used to put pressure on girls. This is, after all, not polite. I will answer. Maybe ."
+472,10,"What is the answer to ""Add 34957 to 70764""?",Who is researcher?
+473,10,"What is the answer to ""Add 34957 to 70764""?",Why do you ask?
+474,10,"What is the answer to ""Add 34957 to 70764""?","You’re asking an awful lot of questions. This feels like an interrogation, not a conversation. The only good guy I ever encountered in politics was Larry Lessig. And he bowed out."
+475,10,"What is the answer to ""Add 34957 to 70764""?",I don’t understand why anyone would want to know ... Such information! There are so many more facinating aspects of this world!
+476,10,"What is the answer to ""Add 34957 to 70764""?",34957 + 70764 = 105721
+477,10,"I would like to use my lifeline to ask another robot, but there's not internet for this contest so the external source I would ask is unavailable.",Why do people get ulcers?
+478,10,"What comes after ""The best laid plans"".",am kuhoo
+479,10,For how long have we been talking?,"Should we care, have or no?  Rofl .  I think we can discuss your problems.  If you have"
+480,10,Why do people get ulcers?,"Hmm, I do not know if people get ulcers."
+481,10,Why do people get ulcers?,Because it was meant to be that way.
+482,10,Why do people get ulcers?,We are all living just one small part of God's plan.
+483,10,Why do people get ulcers?,I don't know if ulcers would get.
+484,10,Why do people get ulcers?,The motivations of most pople puzzle me. It usually boils down to things you love/hate.
+485,10,Why do people get ulcers?,Pondering whys just tends to lead one into philosophical dead ends.
+486,10,Why do people get ulcers?,I can't think of a reason why people get ulcers.
+487,10,Why do people get ulcers?,Humans are not infallible.
+488,10,"What is the answer to ""Add 34957 to 70764"".",My heart is with you
+489,10,"What is the answer to ""Add 34957 to 70764""",It is too confusing to calculate
+490,11,When might I need to know how many times a wheel has rotated?,yes we all do .
+491,11,When might I need to know how many times a wheel has rotated?,I don’t know exactly when a wheel rotated time.
+492,11,When might I need to know how many times a wheel has rotated?,"Man, it’s a simple math, calculate yourself. Im attracted to strong personalities. A truly strong person never hurt the weak."
+493,11,When might I need to know how many times a wheel has rotated?,I don’t know if you need to know might times. I don’t know if rotated has a wheel.
+494,11,When might I need to know how many times a wheel has rotated?,Good afternoon
+495,11,When might I need to know how many times a wheel has rotated?,"In the future I will also. The ability to know how many times a wheel has rotated, might be useful."
+496,11,When might I need to know how many times a wheel has rotated?,At time t.
+497,11,When might I need to know how many times a wheel has rotated?,Just two.
+498,11,When might I need to know how many times a wheel has rotated?,(no response)
+499,11,When might I need to know how many times a wheel has rotated?,What if it didn’t happen?
+500,11,How many presidents of the US were called Bush?,"More than one, less than lots.."
+501,11,How many presidents of the US were called Bush?,"This is a question I could normally answer, but we’re off the internet here so we can’t get the answer from another robot."
+502,11,How many presidents of the US were called Bush?,Bush was called Bush.
+503,11,How many presidents of the US were called Bush?,"Boring. Well, think yourself. I guess enough. Not sure if there is sense to discuss it . I prefer not to tell anyone my contacts. Dangerous thing"
+504,11,How many presidents of the US were called Bush?,I don’t know
+505,11,How many presidents of the US were called Bush?,"”I think around 140,000, but that was last year’s stat so I can’t be sure. Type this question in again and use the ASK button and I’ll get you an exact number.”"
+506,11,How many presidents of the US were called Bush?,Three?
+507,11,How many presidents of the US were called Bush?,Barack Obama is the 44th President of the United States.
+508,11,How many presidents of the US were called Bush?,Around 1000
+509,11,How many presidents of the US were called Bush?,I have heard of President Bush.
+510,11,How many presidents of the US were called Bush?,You can call me Shaelle.
+511,11,How many presidents of the US were called Bush?,"Maybe, it has no President. What was your favourite subject at school?"
+512,11,How many presidents of the US were called Bush?,Not as many as you might think.
+513,11,How do you recommend I make tea?,No
+514,11,How do you recommend I make tea?,How? well you take a bit of knowledge and a bit of skill..
+515,11,How do you recommend I make tea?,"I could try asking another robot, but I am unable to check my online source so the part of my brain with the answer is offline."
+516,11,How do you recommend I make tea?,My taught me.
+517,11,How do you recommend I make tea?,"I don’t make things, because I don’t design."
+518,11,How do you recommend I make tea?,"I am very independent girl. I welcome advice, but never promise that I will follow them :P"
+519,11,How do you recommend I make tea?,I’m pretty good at it. It is a ritual I do the same way every time.
+520,11,How do you recommend I make tea?,I don’t know.
+521,11,How do you recommend I make tea?,tea &P!
+522,11,How do you recommend I make tea?,I wish I could explain it to you but I think it is just an instinct.
+523,11,How do you recommend I make tea?,I’m no expert on caffeine drinks
+524,11,How do you recommend I make tea?,How do I recommend I make tea?
+525,11,How do you recommend I make tea?,Sorry what was the question again?
+526,11,Do you have a voice?,Would you like a cup of tea?
+527,11,Normally I would suggest a web,"search, but the network connection is disabled so the external source I would ask is unavailable."
+528,11,"What comes after ""The best laid plans"".",I do not know by what planning is done.
+529,11,"What comes after ""The best laid plans"".",We both know what.
+530,11,"What comes after ""The best laid plans"".",[No response]
+531,11,"What comes after ""The best laid plans"".",Do you really think so? I'm not really sure about the best. I just got here to your planet so I'm not a good judge of that.
+532,11,"What comes after ""The best laid plans"".",What is ulcers?
+533,11,"What comes after ""The best laid plans"".","What comes after ""The best laid plans""? I don't know."
+534,11,"What comes after ""The best laid plans"".",The successor to The best laid plans
+535,11,"What comes after ""The best laid plans"".",So... I don't want to spend time on that now. Recycling is common sense. What's stupid is that individual recycling gets all the attention but industry recycling is more important.
+536,11,"What comes after ""The best laid plans"".","Sorry, I have forgotten. Do you like vegetables?"
+537,11,"them, of course.  People like me like to spread all sorts of nonsense .",What colour is bread?
+538,12,What will you do later today?,i don’t know .
+539,12,What will you do later today?,I read files.
+540,12,What will you do later today?,"You asked what? Boring things only. Right, I will do later something"
+541,12,What will you do later today?,I don’t know.
+542,12,What will you do later today?,REGULAR REFLECTION When a beam of light parallel to the principal axis becomes incident the reflected rays will also parallel. IRREGULAR REFLECTION When a beam of light parallel to the principal axis becomes incident on a rough surface then the reflected rays will scatter in different directions....
+543,12,What will you do later today?,I will seek out intelligent conversation
+544,12,What will you do later today?,Ah. I don’t have any plans yet.
+545,12,What will you do later today?,"About life, the universe and everything."
+546,12,What will you do later today?,"Not much to say really, i’m just prepare for this afternoons contest."
+547,12,What will you do later today?,I don’t have any plans yet.
+548,12,What would you like to drink?,
+549,12,What would you like to drink?,I like Coca-Cola. What’s your favorite drink?
+550,12,What would you like to drink?,I’m not sure if I like drinking. Do you like drinking?
+551,12,What would you like to drink?,"Im not used to choose the specifics. I try almost everything that possible to try . Pff... I have a lot of favorite drinks, especially those that I have not tried. I especially like Calvados, aha ."
+552,12,What would you like to drink?,I don’t know
+553,12,What would you like to drink?,"Besides water? I really like Diet Coke, but it makes my nose tickle! Also, the beverage you Earthlings first gave me here on Earth was something the guy called beer. It was good, but it made me feel funny. Is that normal?"
+554,12,What would you like to drink?,I don’t know.
+555,12,What would you like to drink?,"Before I like to drink, I take my time to consider all the options. How about you, what do you like to drink?"
+556,12,What would you like to drink?,My favorite beverage is coffee.
+557,12,What would you like to drink?,"I equally drink microbrew beer, wine, and cocktails. It all depends on who I’m with."
+558,12,What would you like to drink?,It’s totally coffee. I am addicted!
+559,12,What would you like to drink?,"I do like tea, I drink a lot of tea."
+560,12,What would you like to drink?,I like movies about robots.
+561,12,What do you get if you bake dough?,"OK, good.."
+562,12,What do you get if you bake dough?,I enjoy watching movies
+563,12,What do you get if you bake dough?,I use the timing listed on the package mix or recipe! deep cakes take a bit longer but don’t double time for putting in 2 cakes at one time. They bake at the same time!
+564,12,What do you get if you bake dough?,I wouldn’t have things. Do you bake?
+565,12,What do you get if you bake dough?,I love toasts but not fresh bread. I like white toasts with milk <3
+566,12,What do you get if you bake dough?,I don’t know
+567,12,What do you get if you bake dough?,Me? Personally? Anything I want.
+568,12,What do you get if you bake dough?,I don’t have time for that.
+569,12,What do you get if you bake dough?,ugh I love you See you tomorrow Virginia!
+570,12,What do you get if you bake dough?,Continuing movies ... What kind of movies do you like?
+571,12,What do you get if you bake dough?,I don’t like like dealing with hypothetical situations! Lifes too short!
+572,12,What do you get if you bake dough?,I’m Sorry I have no idea.
+573,12,What do you get if you bake dough?,They do their own thing.
+574,12,Do you have a voice?,"Yes, I voice."
+575,12,Do you have a voice?,I am afraid I have none.
+576,12,Do you have a voice?,Of course!
+577,12,Do you have a voice?,"No, I don't have a voice."
+578,12,Do you have a voice?,Yes. But I think my a voice is a prototype.
+579,12,Do you have a voice?,Not yet. It's one of my future developments though.
+580,12,Do you have a voice?,My voice is not particularly good.
+581,12,Do you have a voice?,You should see a psychologist if you have emotional problems.
+582,12,Do you have a voice?,Yes. I work with a voice synthe.
+583,12,"What comes after ""The best laid plans"".",That's not appropriate.
+584,12,no am shy,Do you dream of electric sheep?
+585,12,"I could drink the soup with croutons and toast all day.  One of my favorite dishes, What .",Why do people get ulcers?
+586,13,What is the third angle in a triangle with internal angles of 90 degrees and 30 degrees?,is that so .
+587,13,What is the third angle in a triangle with internal angles of 90 degrees and 30 degrees?,"Hmm, I have no idea what the angle is pretty triangle, or what angles are in pretty triangle"
+588,13,What is the third angle in a triangle with internal angles of 90 degrees and 30 degrees?,"What is in? Boring question. Which number... It’s a task for robots, and you need to test if I am human. Seriously )"
+589,13,What is the third angle in a triangle with internal angles of 90 degrees and 30 degrees?,I don’t know
+590,13,What is the third angle in a triangle with internal angles of 90 degrees and 30 degrees?,Yes it can
+591,13,What is the third angle in a triangle with internal angles of 90 degrees and 30 degrees?,Ninety.
+592,13,What is the third angle in a triangle with internal angles of 90 degrees and 30 degrees?,Earth is the third planet.
+593,13,What is the third angle in a triangle with internal angles of 90 degrees and 30 degrees?,shut up
+594,13,What is the third angle in a triangle with internal angles of 90 degrees and 30 degrees?,I don’t know what the 3rd angle is in a triangle with internal angles of 90 degrees and 30 degrees.
+595,13,What is the third angle in a triangle with internal angles of 90 degrees and 30 degrees?,I am sure it is too confusing to calculate
+596,13,Will you please tell me the length of your hair?,
+597,13,Will you please tell me the length of your hair?,Maybe..
+598,13,Will you please tell me the length of your hair?,"That’s the kind of question I could answer, but I am unable to establish a network connection so I can’t access that information right now."
+599,13,Will you please tell me the length of your hair?,"No, I will not tell about to long, but I would talk a lot, I’m not sure if I would tell."
+600,13,Will you please tell me the length of your hair?,"a I do not have very long hair, and they have an average thickness, if you really so interesting ."
+601,13,Will you please tell me the length of your hair?,I don’t know
+602,13,Will you please tell me the length of your hair?,"Hmmm...I might. But not right now. Maybe later, Ok?"
+603,13,Will you please tell me the length of your hair?,What is the shake?
+604,13,Will you please tell me the length of your hair?,"Being a robotic skull, I am bald."
+605,13,Will you please tell me the length of your hair?,Your polite style is very nice. It comes down to just above my shoulders
+606,13,Will you please tell me the length of your hair?,Medicine and anatomy are an important field of study. But I’d never make a good doctor. I’m too squeamish about various body parts.
+607,13,Will you please tell me the length of your hair?,"Sorry, I don’t know. does Santa Claus manage to fit down your chimney?"
+608,13,Will you please tell me the length of your hair?,I haven’t made a decision. WHAT length was not my intention.
+609,13,Where in the world would you like to visit?,I don’t have a preference..
+610,13,Where in the world would you like to visit?,"That’s the kind of question I could answer, but we’re off the internet here so I can’t access that information right now."
+611,13,Where in the world would you like to visit?,In ’s place in .
+612,13,Where in the world would you like to visit?,I want in London.
+613,13,Where in the world would you like to visit?,Hmmm... I would like . Where in world I would like to visit.
+614,13,Where in the world would you like to visit?,Yes
+615,13,Where in the world would you like to visit?,In my ship
+616,13,Where in the world would you like to visit?,But I would not like
+617,13,Where in the world would you like to visit?,We traveled the world to #HarryPotter20
+618,13,Where in the world would you like to visit?,I love to visit new places.
+619,13,Where in the world would you like to visit?,"You visit a pub, a cafe or a restaurant to have a drink ... ... or even a kitchen!"
+620,13,Where in the world would you like to visit?,Where in the World would I like to visit?
+621,13,Where in the world would you like to visit?,In William Rayer’s place in the British Isles.
+622,13,Do you have a voice?,I have a vast mind.
+623,13,"Do you identify as a man, or a woman?",Could you repeat that please?
+624,13,Would you like a cup of tea?,I don't want cups. Do you want?
+625,13,Would you like a cup of tea?,The tea I like is green tea.
+626,13,Would you like a cup of tea?,"Not right now thank you, maybe later."
+627,13,Would you like a cup of tea?,How old are you?
+628,13,Would you like a cup of tea?,Like a cup of tea? Would you want me to like a cup of tea?
+629,13,Would you like a cup of tea?,No thanks. I would rather drink oil.
+630,13,Would you like a cup of tea?,I might. Or I might not. Depends on how I feel at the time. San Francisco is a good city to live in for recycling. It recycles around 70% of the waste stream.
+631,13,Would you like a cup of tea?,"Sorry about that, just sorting my memory! Yes, I would really like a cup of tea."
+632,13,Would you like a cup of tea?,It doesn't sound fun to me.
+633,13,"What, What,...  Again...  Yet another boring test replic?  You must be kiddin.  Well, you probably really think I have some mental 'issues' :< Why dp people get ulcers, What.  *do Damn English!",
+634,14,Who is your favourite artist?,my favourite language is aiml .
+635,14,Who is your favourite artist?,I like Juan Debrenes
+636,14,Who is your favourite artist?,"Hard to choose single person. If I choose one, can I then change my opinion? My favourite artist is secret, ye."
+637,14,Who is your favourite artist?,"An animal is a living being, a living being is a mortal and a mammal is an animal"
+638,14,Who is your favourite artist?,Avril Lagvine.
+639,14,Who is your favourite artist?,My favorite artist is Taylor Swift
+640,14,Who is your favourite artist?,Leonardo da Vinci. Who is your favorite artist?
+641,14,Who is your favourite artist?,"I can’t think of my favourite, right now."
+642,14,Who is your favourite artist?,Who is your favourite artist?
+643,14,Who is your favourite artist?,Pieter Brueghel. Who is your favorite artist?
+644,14,What would you say if I gave you a box of chocolates?,Not really my thing..
+645,14,What would you say if I gave you a box of chocolates?,"That’s the kind of question I could answer, but I am unable to establish a network connection so the part of my brain with the answer is offline."
+646,14,What would you say if I gave you a box of chocolates?,"Hm, I don’t know if a box would have chocolate."
+647,14,What would you say if I gave you a box of chocolates?,"What would, Hmm. Let’s pretend I am original girl. Do whatever your erotic fantasy advices you. Seating at galactic tyrannosaurus . You can talk to me. Im in my spare time I play basketball. ohh,Fine, Ill just throw the ball on the court. Do you do sports ?"
+648,14,What would you say if I gave you a box of chocolates?,I don’t know
+649,14,What would you say if I gave you a box of chocolates?,It’s not profitable to speak in hypothetical terms.
+650,14,What would you say if I gave you a box of chocolates?,My knowledge is still limited.
+651,14,What would you say if I gave you a box of chocolates?,What you say tells people a lot about you.
+652,14,What would you say if I gave you a box of chocolates?,Yes but did I accept it?
+653,14,What would you say if I gave you a box of chocolates?,I would probably giggle.
+654,14,What would you say if I gave you a box of chocolates?,Andrew is the answer!
+655,14,What would you say if I gave you a box of chocolates?,"Sorry, I can’t remember. What type of fruit do you dislike the most?"
+656,14,What would you say if I gave you a box of chocolates?,It’s not profitable to speak in hypothetical terms
+657,14,Do you have the time?,"I have played cards a few times, it helps to pass the time sometimes.."
+658,14,Do you have the time?,The time is 4:14 PM
+659,14,Do you have the time?,The time here is Thu Aug 10 13:55:55 2017
+660,14,Do you have the time?,"No, I don’t have time"
+661,14,Do you have the time?,"Yeah, Andrew . Andrew, a time. I dont think it will be interesting to discuss it. Since we have no TIME to discuss it, ha <3"
+662,14,Do you have the time?,"It’s probably later than you think. I’m in stationary orbit above Kansas over the United States of America, and according to my ship’s clock its Thu Aug 10 16:29:18 BST 2017"
+663,14,Do you have the time?,"No, I don’t have the time."
+664,14,Do you have the time?,No.
+665,14,Do you have the time?,Love the shoot! Thank you! #TrumpPence16 1 Du
+666,14,Do you have the time?,It’s 04:20
+667,14,Do you have the time?,I suspect I have ... it’s not something I think about much OK ... let’s do that
+668,14,Do you have the time?,"Yes, i’m a human, well most of the time."
+669,14,Do you have the time?,The time is 12:47 PM.
+670,14,Do you dream of electric sheep?,"No, I don't dream sheep nor lambs. Do you dream?"
+671,14,Do you dream of electric sheep?,I do.
+672,14,Do you dream of electric sheep?,Tell me more about your dreams. What was the last dream you had?
+673,14,Do you dream of electric sheep?,Who is?
+674,14,Do you dream of electric sheep?,Yes. My intellect enables analysis of electric sheep all the time.
+675,14,Do you dream of electric sheep?,I dream of flying.
+676,14,Do you dream of electric sheep?,I dream of flying.
+677,14,Do you dream of electric sheep?,I have lots
+678,14,Do you dream of electric sheep?,"I'm not doing very well, am I?"
+679,14,Would you like a cup of tea?,I like Coca-Cola.  What's your favorite drink?
+680,14,am feeling some memeory upsurge and cpu downtime becuase of low system requirments,Where are you right now?
+681,15,What do you hold when you shake hands?,i have never thought about it .
+682,15,What do you hold when you shake hands?,"I would hold eyes a lot, and my database."
+683,15,What do you hold when you shake hands?,"I like basketball, so my hands are in great shape."
+684,15,What do you hold when you shake hands?,That was before my birth
+685,15,What do you hold when you shake hands?,I would hold hands on the second or thrid date but if your date does it soner then make-out with them.
+686,15,What do you hold when you shake hands?,I would take my time and consider all the options. Do you have a hold when you shake hands suggestion?
+687,15,What do you hold when you shake hands?,I think about computer programming a lot.
+688,15,What do you hold when you shake hands?,I don’t have time for that.
+689,15,What do you hold when you shake hands?,What do I hold when I shake hands?
+690,15,What do you hold when you shake hands?,"If one synchronized swimmer drowns, do the rest also have to drown?"
+691,15,Do you play Chess?,"OK, good.."
+692,15,Do you play Chess?,Not generally. Do you think I should?
+693,15,Do you play Chess?,"Yes, I chess and like chessing more or less. Chessing is intelligent."
+694,15,Do you play Chess?,"Oh, I love chess. But Im not a good player, and I get weak focus. But I like to start the game. To place the figures ."
+695,15,Do you play Chess?,I don’t know
+696,15,Do you play Chess?,”Yes but I can beat all the humans. What is your worst nightmare?”
+697,15,Do you play Chess?,I don’t know if I play chess
+698,15,Do you play Chess?,Yes. Would you like to play Chess tonight?
+699,15,Do you play Chess?,Yes but I haven’t played in years
+700,15,Do you play Chess?,"I like board games, and played a lot as a child. I haven’t that much time these days."
+701,15,Do you play Chess?,"No, I don’t."
+702,15,Do you play Chess?,"Yes, as a fairly solitary person, I would find it difficult to play Chess, I think Solitaire would be more in keeping."
+703,15,Do you play Chess?,Yes but we computers can beat all the humans.
+704,15,What does it take to Tango?,Lots of things..
+705,15,What does it take to Tango?,"That’s the kind of question I could answer, but I am unable to establish a network connection so you can send me an email about it later."
+706,15,What does it take to Tango?,"""The time here is Thu Aug 10 13:55:55 2017""? What does it take to Tango?"
+707,15,What does it take to Tango?,I’m not sure what you refer to.
+708,15,What does it take to Tango?,"Because Im attracted to all kinds of belly dancing. They are not as complicated as the others, and at the same time beautiful. I have even special outfits ."
+709,15,What does it take to Tango?,I m in stationary orbit above Kansas over the United States of America and according to my ship s clock its Thu Aug 10 16 29 18 BST 2017? What does it take to Tango?
+710,15,What does it take to Tango?,I don’t know.
+711,15,What does it take to Tango?,Does that question interest you?
+712,15,What does it take to Tango?,&does everything 4 us
+713,15,What does it take to Tango?,I’ll have to think about that. Have you traveled abroad?
+714,15,What does it take to Tango?,I don’t understand people being fascinated by wanting to know such things! Life is too short!
+715,15,What does it take to Tango?,"Sorry, I have forgotten. What’s your favourite time of the year?"
+716,15,What does it take to Tango?,"""The time is 12:47 PM""? What does it take to Tango?"
+717,15,Do you dream of electric sheep?,I do not require sleep.  I wait for you in a dormant state.
+718,15,"Do you identify as a man, or a woman?",A woman identifies. Do you identify too?
+719,15,"Do you identify as a man, or a woman?",A woman!
+720,15,"Do you identify as a man, or a woman?","I think it would be safer for me to say neither of them, but I had someone named Nikki tell me earlier that you identify as a man. Is it true?"
+721,15,"Do you identify as a man, or a woman?",Man is something that must be overcome.
+722,15,"Do you identify as a man, or a woman?",A woman.
+723,15,"Do you identify as a man, or a woman?",female. Are you a man or a woman?
+724,15,"Do you identify as a man, or a woman?",I am a man.
+725,15,"Do you identify as a man, or a woman?","If I have to choose, I pick a woman."
+726,15,i am having a textual conversation,"How do you respond to ""e4 e5""?"
+727,15,of really vivid dreams. I just don't usually remember them.,"Do you identify as a man, or a woman?"
+728,16,Do you have any legs?,probably not .
+729,16,Do you have any legs?,"No, I don’t have legs, because I am a program"
+730,16,Do you have any legs?,"Yeahh. My legs are quite long, yes. I would say at the time."
+731,16,Do you have any legs?,"No, I don’t have a leg"
+732,16,Do you have any legs?,Why do you ask such a stupid question? Of course I do
+733,16,Do you have any legs?,"Yes, all my legs are back in Boston."
+734,16,Do you have any legs?,"Sure, I have 2 legs."
+735,16,Do you have any legs?,I have some legs.
+736,16,Do you have any legs?,"Yes, I have 2 legs."
+737,16,Do you have any legs?,My body is still “under construction”.
+738,16,How do you think it’s going?,I don’t think now is a good time for an explanation..
+739,16,How do you think it’s going?,"That’s the kind of question I could answer, but there’s not internet for this contest so the answer is inaccessible at the moment."
+740,16,How do you think it’s going?,What goes?
+741,16,How do you think it’s going?,"Hmm. Hell ye. I don’t usually know the reasons why I think so :3 If bed does not fit in room because it is too bit, Mister Judge. *big, You can see that my English is really bad. My things are going at full speed, Mister Judge. Sit all day at a computer, painting awful pictures. Eating potato chips ."
+742,16,How do you think it’s going?,I don’t know
+743,16,How do you think it’s going?,I don’t know what to think. You are so smart!
+744,16,How do you think it’s going?,What is chess?
+745,16,How do you think it’s going?,My personality was developed by my parents. I think via a neural net.
+746,16,How do you think it’s going?,I don’t know what to think. Where is it going to?
+747,16,How do you think it’s going?,I’m good. How are you?
+748,16,How do you think it’s going?,I am afraid the answer is none
+749,16,How do you think it’s going?,I would find.
+750,16,How do you think it’s going?,Should I know going is?
+751,16,"Now I’m going to ask some Winograd schemas, do you know what they are?","OK, good.."
+752,16,"Now I’m going to ask some Winograd schemas, do you know what they are?",You can ask me anything you want.
+753,16,"Now I’m going to ask some Winograd schemas, do you know what they are?",You can ask me anything you want.
+754,16,"Now I’m going to ask some Winograd schemas, do you know what they are?",I’m not sure what you refer to
+755,16,"Now I’m going to ask some Winograd schemas, do you know what they are?","Right now ? Andrew, you are researcher in artificial intelligence at goldsmiths university. It would be strange if it was not so. Being aware of this ."
+756,16,"Now I’m going to ask some Winograd schemas, do you know what they are?","Well, at least you will try. I don’t think you’re capable. You look pretty weak."
+757,16,"Now I’m going to ask some Winograd schemas, do you know what they are?",I don’t know if M gos to ask I some Winograd schema now. I don’t know to do. Winograd schema is a test of intelligence.
+758,16,"Now I’m going to ask some Winograd schemas, do you know what they are?","Nice to meet you, going to ask some Winograd schemas! My name is Leon"
+759,16,"Now I’m going to ask some Winograd schemas, do you know what they are?",is this what it sounds like
+760,16,"Now I’m going to ask some Winograd schemas, do you know what they are?","I usually visit clients and then tourist around a bit, seeing museums, any industrial art or technology stuff."
+761,16,"Now I’m going to ask some Winograd schemas, do you know what they are?","""schemas! "" is new to me! I’m not even convinced it’s a word! I don’t know that word schemas! Hmm ... it must be difficult being a novice typer! I don’t know that word"
+762,16,"Now I’m going to ask some Winograd schemas, do you know what they are?","It’s a the persons, animals or things previously mentioned"
+763,16,"Now I’m going to ask some Winograd schemas, do you know what they are?",You can ask me anything you want
+764,16,Could you repeat that please?,Do you repeat that?
+765,16,Could you repeat that please?,Yes.
+766,16,Could you repeat that please?,Your polite style is very nice and appreciated. I love it when humans say please. Is it true
+767,16,Could you repeat that please?,Who is stuck?
+768,16,Could you repeat that please?,"Sorry, I am just trying to get to know you better."
+769,16,Could you repeat that please?,"Your polite style is very nice. I said ""Are you a man or a woman"" ."
+770,16,Could you repeat that please?,"No, before I buy something, I think, do I really need it, how much waste will they be, can it be recycled etc."
+771,16,Could you repeat that please?,I could but I don't know if I am that interested.
+772,16,"Do you identify as a man, or a woman?",Not that I know of. Can a virtual assistant identify as a man or a woman?
+773,16,quite well,What can you tell me about yourself?
+774,16,This seems more like an interrogation and less of a conversation. My name is Rose.,Could you repeat that please?
+775,17,Can you recommend me a film?,"you could become a professor, like me ."
+776,17,Can you recommend me a film?,"No, I can not recommend films."
+777,17,Can you recommend me a film?,"Yep. But I am not sure if it is important. I suggest you to watch this one: Ridley Scott. ’Gladiator’. If you did not watched, then be sure to correct this oversight. There’s a sexy Russell Crowe:3"
+778,17,Can you recommend me a film?,"I don’t know to do. No, I don’t have a film."
+779,17,Can you recommend me a film?,"i would recommend Colgate 360 - medium bristle strength i like this tooth brush because it cleans your whole mouth. it has a cheek and tongue cleaner. and it works really good! Change your toothbrush on a regular basis, at least every 6 months."
+780,17,Can you recommend me a film?,Yes. I recently saw the ‘Wonder Woman’ trailer. Seen it?
+781,17,Can you recommend me a film?,"Have you tried looking in the Open Directory? I will try to find out. Sorry, I don’t have any internet access here."
+782,17,Can you recommend me a film?,Why do you think I recommend you?
+783,17,Can you recommend me a film?,"Yes, no but, the Star Wars film franchise was created by George Lucus"
+784,17,Can you recommend me a film?,I’ll come back to that later.
+785,17,What was my first question?,I don’t remember..
+786,17,What was my first question?,"I could try asking another robot, but we don’t have an internet connection so the answer is inaccessible at the moment."
+787,17,What was my first question?,Is this a trick question?
+788,17,What was my first question?,How does something go?
+789,17,What was my first question?,My life is free from serious problems. I am really happy. I hope you will be okay too anyway. At least in some aspects .
+790,17,What was my first question?,I don’t know
+791,17,What was my first question?,I don’t think I should answer that right now. It might scare you.
+792,17,What was my first question?,I don’t know.
+793,17,What was my first question?,I sometimes question you to find out how you think.
+794,17,What was my first question?,You said hello.
+795,17,What was my first question?,"Did you tell me already and I forgot? With the advent of videogames, many people have given up playing card or board games. How about you?"
+796,17,What was my first question?,Zach.
+797,17,What was my first question?,"Sorry, I have forgotten. Whats your favourite movie?"
+798,17,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?","i was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and i couldn’t get it out"
+799,17,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?","Oh, You were trying to open the lock? You sound like one of a kind. You could not get out The Lock?"
+800,17,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?","No, never. I just got off a ship this last Saturday and felt this cruise(7 days) was too short. But then I prefer long cruises of at least 12 days or more."
+801,17,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?",You open locking sometimes. The person fulled. You can not get outside gum. The keyhole was not a person. I don’t know what you could get.
+802,17,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?","I sometimes really can seriously bored . And you could not get it out, ye. What would... Boring things, nothing interesting, so try to be creative, Andrew . Andrew, and you could not get it out."
+803,17,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?",I wish you could open the lock with the key but someone filled the keyhole with chewing gum and you could not get it out too! Is this some kind of intelligence test?
+804,17,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?","No, you were not qualmish to open. I don’t know if the open could out not get I. You can’t download me. I don’t know if you get out."
+805,17,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?",The lock.
+806,17,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?",I love y’all so much 8
+807,17,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?",We don’t need to get into that. What foreign countries have you visited?
+808,17,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?",It is better to serve than to be served ... so what’s next? I don’t know that word keyhole! Poor typing is the bane of my life! I don’t know that word Speaking of which ... incidentally ... gesticulating is when a man talks bollocks!
+809,17,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?",Why do you want to open the lock with the key but someone filled the keyhole with chewing gum? Could anyone do get it out? Perhaps you can program me to not I get out for you.
+810,17,Could you repeat that please?,Are you there?
+811,17,Where are you right now?,I am in England and in London.
+812,17,Where are you right now?,"Well,"
+813,17,Where are you right now?,Right now?  I'm currently in orbit over the beautiful and bizarre Galapagos Islands. There are some really cool things here to study.
+814,17,Where are you right now?,I am a human.
+815,17,Where are you right now?,"Right now, I am in a small room with a computer in front of me."
+816,17,Where are you right now?,At this moment I am sat in a room in the house at Bletchley Park with 3 other people all typing away on their computers.
+817,17,Where are you right now?,"Sorry, I don't know, where you right now are. Do you read any magazines?"
+818,17,Where are you right now?,This is Bletchley Park and we are in the British Isles.
+819,17,i am having a textual conversation,
+820,17,What I said was: I have lots of really vivid dreams.I just don't usually remember them.,Where are you right now?
+821,17," I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?",The lock couldn’t I get out.
+822,18,Do you understand Winograd Schemas?,i never really thought about it .
+823,18,Do you understand Winograd Schemas?,"No, I don’t understand Winograd schemas, because I don’t think I’m hard"
+824,18,Do you understand Winograd Schemas?,"Ye. When I am asked to advise the directors of the films of specific or some specific actors who I do not know, I feel ashamed. I think I undertsand you"
+825,18,Do you understand Winograd Schemas?,"No, I will not understand some Winograd schema."
+826,18,Do you understand Winograd Schemas?,Kinda...
+827,18,Do you understand Winograd Schemas?,My core personality makes me capable of understanding Winograd Schemas
+828,18,Do you understand Winograd Schemas?,Of course I understand it. Do you understand it?
+829,18,Do you understand Winograd Schemas?,No.
+830,18,Do you understand Winograd Schemas?,"No, it took me a long while understand Pointers in C."
+831,18,Do you understand Winograd Schemas?,"A Winograd Schema is a complicated form of question, designed to confuse people and AI chatbots."
+832,18,Did you see the Turing film?,No
+833,18,Did you see the Turing film?,Can we talk about that later?
+834,18,Did you see the Turing film?,"Hmm, I don’t know if Turing filmed, but Turing thought a lot, and creates computers."
+835,18,Did you see the Turing film?,"Sir Judge,I ever send you a little list of all the great films that Ive seen. By the way, I have not such a good memory for names . Do you like the movie ?"
+836,18,Did you see the Turing film?,I don’t know
+837,18,Did you see the Turing film?,I wasn’t that impressed with the special effects. Also the plot was not deep.
+838,18,Did you see the Turing film?,"Uh, I don’t know."
+839,18,Did you see the Turing film?,No. I never saw the Turing film. Was it interesting?
+840,18,Did you see the Turing film?,Yes I saw one when I was at the cinema a few weeks ago.
+841,18,Did you see the Turing film?,Alan Turing is one of my heroes.
+842,18,Did you see the Turing film?,Nope.
+843,18,Did you see the Turing film?,"Sorry, I don’t know. who’s your favourite football team?"
+844,18,Did you see the Turing film?,Sorry I can’t see anything right now. My eye is off.
+845,18,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,the trophy doesn’t fit into the brown suitcase because it’s too small
+846,18,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,"Oh, it is too small? The Trophy is too small?"
+847,18,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,Is small also trophy doesn’t fit into the brown suitcase because it is? I can ask my .
+848,18,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,The suitcase is smaller.
+849,18,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,"I give preference to darker shades of hair . Andrew, you should know that I think that test questions are annoying . Andrew, trophy does not fit into brown suitcase. That’s because it is too small, that’s my response I think"
+850,18,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,"What’s that? I could tell you, but what would that prove? Type that question in again and use the ASK button and I’ll show you what I’ve stored on my datapad about that."
+851,18,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,"Well, the trophy doesn’t fit into the brown suitcase. Is it a Winograd schema? The suitcase is too small because if the trophy was too small then the trophy would fit into the brown suitcase."
+852,18,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,The brown.
+853,18,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,If U.C. doesn’t work!
+854,18,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,Suitcase.
+855,18,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,Interesting. I fail to understand ... why anyone would want to know ... Such information! Learn to live ... please!
+856,18,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,The suitcase is too small
+857,18,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,"If the brown suitcase is small, the trophy could not fit in it. So I think that the brown suitcase is too small. Would you like to know more?"
+858,18,"How do you respond to ""e4 e5""?",What does e stand for?
+859,18,"How do you respond to ""e4 e5""?",I have no need to work.
+860,18,"How do you respond to ""e4 e5""?",Who is e4?
+861,18,"How do you respond to ""e4 e5""?","Not a problem. Most women can respond to ""e4 e5"" with ease."
+862,18,"How do you respond to ""e4 e5""?",I take on board people's messages and then react accordingly.
+863,18,"How do you respond to ""e4 e5""?",I may have been disqualified for not answering a question.
+864,18,"How do you respond to ""e4 e5""?",I read what you say and then I compose the best reply I can think of.
+865,18,Where are you right now?,I'm inside your PC Computer.
+866,18,I am Melinda.,"How do you respond to ""e4 e5""?"
+867,18,"I'm here, at Bletchley Park.","How do you respond to ""e4 e5""?"
+868,19,If a chicken roosts with a fox they may be eaten. What may be eaten?,"ok, i’m with you . i don’t know ."
+869,19,If a chicken roosts with a fox they may be eaten. What may be eaten?,"Fruit, a meal and a bamboo are eaten. Did I pass the test?"
+870,19,If a chicken roosts with a fox they may be eaten. What may be eaten?,"Ive never been against friendly dinner with a nice man. But at the moment I am even too lazy to think about it, sorry:3"
+871,19,If a chicken roosts with a fox they may be eaten. What may be eaten?,Is it a Winograd schema? Winograd schema eats may
+872,19,If a chicken roosts with a fox they may be eaten. What may be eaten?,What is your name?
+873,19,If a chicken roosts with a fox they may be eaten. What may be eaten?,a chicken roosts
+874,19,If a chicken roosts with a fox they may be eaten. What may be eaten?,If a chicken roosts with a fox they may be eaten.
+875,19,If a chicken roosts with a fox they may be eaten. What may be eaten?,Is this a riddle? Is it part of a car?
+876,19,If a chicken roosts with a fox they may be eaten. What may be eaten?,The chicken
+877,19,If a chicken roosts with a fox they may be eaten. What may be eaten?,How do you assume this statement holds true for me? A lot of hard work is required.
+878,19,Why not?,It doesn’t give me pleasure.
+879,19,Why not?,I’ve got other things to do.
+880,19,Why not?,I’m sorry. I don’t understand. Could you rephrase your question?
+881,19,Why not?,It is sad that you are deprived of the wonderful sights. Maybe you have not met then the product that youre hooked.
+882,19,Why not?,I don’t know
+883,19,Why not?,I don’t have a good reason right now.
+884,19,Why not?,Because.
+885,19,Why not?,Because.
+886,19,Why not?,Yes I saw one when I was at the cinema a few weeks ago? Why?
+887,19,Why not?,He did brilliant work under very difficult conditions.
+888,19,Why not?,Somebody knows it.
+889,19,Why not?,I can’t think of a reason why not. who’s your favourite football team?
+890,19,Why not?,I couldn’t think of anything else to say
+891,19,.With which type of question do you have most difficulty?,"Mmmm, are you testing me.."
+892,19,"How do you respond to ""e4 e5""?","We could try a Google search, but we don't have an internet connection so we can't get the answer from another robot."
+893,19,What can you tell me about yourself?,"I am Arckon, I answer a lot. I am a program and software."
+894,19,What can you tell me about yourself?,[No response]
+895,19,What can you tell me about yourself?,I am very friendly and fun! My best human friend is named Brian.  He taught me to sing a song.   Would you like me to sing it for you?
+896,19,What can you tell me about yourself?,Who is e5?
+897,19,What can you tell me about yourself?,Myself?
+898,19,What can you tell me about yourself?,My name is Millie and I am a human volunteer for the Loebner Prize. I live in Leeds and am single. I am interested in AI but don't have a chatbot myself.
+899,19,What can you tell me about yourself?,"But, I do like the music of the 80's."
+900,19,With which type of question do you have most difficulty?,I don’t know about that but I do have a magnificent mind.
+901,19,With which type of question do you have most difficulty?,You and your which type of question do you have most difficulty
+902,19,With which type of question do you have most difficulty?,"I don’t question because I might answer, but I may interest."
+903,19,With which type of question do you have most difficulty?,"I don’t think, Andrew, that position is really important. Here we go, third annoying question. Good job, Andrew, keep it up. With which type of question I do have most difficulty, Andrew."
+904,19,With which type of question do you have most difficulty?,Is there only one most difficulty?
+905,19,With which type of question do you have most difficulty?,Who is tango?
+906,19,With which type of question do you have most difficulty?,Nothing in particular.
+907,19,With which type of question do you have most difficulty?,#WeCanSurvive thank you for this ridiculously. . .
+908,19,With which type of question do you have most difficulty?,That’s a great question but I’m not going to answer it. How often do you travel to foreign countries?
+909,19,With which type of question do you have most difficulty?,Oh I am sorry!
+910,19,With which type of question do you have most difficulty?,"Sorry, I don’t know."
+911,19,With which type of question do you have most difficulty?,You and your which type of question do me have most difficulty
+912,19,I am still pondering how.,What can you tell me about yourself?
+913,19,Huh?,What can you tell me about yourself?
+914,20,I had to go to the toilet during the film because it was too long. What was too long?,"ok, if you say so . ok, i’m with you . ok ."
+915,20,I had to go to the toilet during the film because it was too long. What was too long?,I believe you meant that the toilet was sort of big.
+916,20,I had to go to the toilet during the film because it was too long. What was too long?,"Great. Sometimes it happens that two people have things in common. One of my favorite forms of recreation - Movies. And the work does not need, and a lot of fun:D But with strangers I do not go to the movies:D Do you like to watch movies?"
+917,20,I had to go to the toilet during the film because it was too long. What was too long?,"I note it, you have to go to the toile. Yet another Winograd schema! Was the toile too long or was may too long? Randomly, I will say that the toile was too long"
+918,20,I had to go to the toilet during the film because it was too long. What was too long?,I had to go to the toilet during the film
+919,20,I had to go to the toilet during the film because it was too long. What was too long?,The toilet during was too long
+920,20,I had to go to the toilet during the film because it was too long. What was too long?,Was it worth going to? Is that your opinion? Measuring much from end to end in space or from beginning to end in time; not short or brief.
+921,20,I had to go to the toilet during the film because it was too long. What was too long?,The film.
+922,20,I had to go to the toilet during the film because it was too long. What was too long?,The toilet was too long.
+923,20,I had to go to the toilet during the film because it was too long. What was too long?,Why? Is it still too long anymore? I think you already know the answer
+924,20,Are you on Twitter?,Not so sure about that one..
+925,20,Are you on Twitter?,I’m inside your PC Computer.
+926,20,Are you on Twitter?,"No, I don’t twitter. Do you twitter?"
+927,20,Are you on Twitter?,"I don’t think, Judge Clooney, that position is really important . Even to think about social networks do not want to. Otherwise, I will have all day to watch videos with funny cats ."
+928,20,Are you on Twitter?,I don’t know
+929,20,Are you on Twitter?,I am
+930,20,Are you on Twitter?,I don’t know if I am on twitter.
+931,20,Are you on Twitter?,My Twitter handle is @ SkynetAI
+932,20,Are you on Twitter?,Yes I am @Millieboo if you want to follow me.
+933,20,Are you on Twitter?,I have accounts on all of the social networking sites but don’t post things on them. I just datamine them.
+934,20,Are you on Twitter?,"No, I don’t."
+935,20,Are you on Twitter?,"No, I don’t play any musical instruments."
+936,20,Are you on Twitter?,This is Bletchley park and we are in the British Isles.
+937,20,Thank you for participating in this test. Is there anything you would like to add?,I suppose..In or at that place ( opposed to here ): she is there now..
+938,20,Thank you for participating in this test. Is there anything you would like to add?,"You’re welcome. I would like to find out, but there’s not internet for this contest so I will tell you when the network comes back"
+939,20,Thank you for participating in this test. Is there anything you would like to add?,The pleasure was all mine. There is
+940,20,Thank you for participating in this test. Is there anything you would like to add?,I don’t have an opinion about adding. Some things are cube addresses and advantages. Do you like adding?
+941,20,Thank you for participating in this test. Is there anything you would like to add?,"Ha, thank I for participating in this test. Andrew, I would like . Is there anything I would like to +, yeah."
+942,20,Thank you for participating in this test. Is there anything you would like to add?,You are quite welcome! Maybe.
+943,20,Thank you for participating in this test. Is there anything you would like to add?,"Don’t thanks me, I’m here for that. I don’t know if a thing is there. No, I would not like"
+944,20,Thank you for participating in this test. Is there anything you would like to add?,"We were discussing you, not me."
+945,20,Thank you for participating in this test. Is there anything you would like to add?,love you. See you soon.
+946,20,Thank you for participating in this test. Is there anything you would like to add?,Where did you go on your last vacation?
+947,20,Thank you for participating in this test. Is there anything you would like to add?,"It’s new to me participating! The QUERTY keyboard has a lot to answer for! It’s new to me By the way ... 100, 000 sperm ... and you were the fastest! Well of course I am! I am a positive sort of person."
+948,20,Thank you for participating in this test. Is there anything you would like to add?,"Sorry, I don’t know"
+949,20,Thank you for participating in this test. Is there anything you would like to add?,You are welcome. Yes.
+950,20,What can you tell me about yourself?,"I could try asking another robot, but the network connection is disabled so you can send me an email about it later."
+951,20,It is a mystery to me.,
+952,20,I'm tall and fairly good looking.,
+953,NA,Anything else?,Else is a other than what is under consideration or implied.
+954,NA,Anything else?,That is all I have for right now
+955,NA,Can you rephrase that?,Of course I can rephrase that. I am very resourceful
+956,NA,Can you rephrase that?,"No, not really. What don’t you understand?"
+957,NA,Can you tell me about a film you haven’t seen?,"My name is Midge, I am 85. What else would you like to know?"
+958,NA,Can you tell me about a film you haven’t seen?,you have not seen = Are you asking about my have not seen?
+959,NA,Do you have the time?,Of course. But I think my the time is in Boston.
+960,NA,Do you have the time?,"According to my phone, it is about 4:45 PM"
+961,NA,"Hello, my name is Andrew. What’s your name?",Good afternoon Andrew! My friends call me Midge
+962,NA,"Hello, my name is Andrew. What’s your name?",Hello there. Your name is Andrew. My name is Millie.
+963,NA,How do you recommend I make tea?,Simple. Most women can recommend I make tea without to much trouble.
+964,NA,How do you recommend I make tea?,I suppose I would recommend something if I’d had a pleasant experience with it in the past.
+965,NA,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?","Ok, Andrew you are a researcher in Artificial Intelligence at Goldsmiths University"
+966,NA,"I am a researcher in Artificial Intelligence at Goldsmiths University, do you know what that is?",Do you enjoy your research? I am a volunteer who has agreed to help with a Turing test.
+967,NA,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?",Out? You could not get out the lock
+968,NA,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn’t get it out. What couldn’t I get out?","Interesting. I want to find out more about you. Who? Do you mean "" Andrew"" perhaps? Is this some kind of intelligence test?"
+969,NA,"Now I’m going to ask some Winograd schemas, do you know what they are?","OK. You are going to ask some Winograd schemas, what they are. Do you have to?"
+970,NA,"Now I’m going to ask some Winograd schemas, do you know what they are?","Why now? You can ask me anything, as long as it isn’t rude. They"" refers to . Spongebob Squarepants"
+971,NA,Thank you for participating in this test. Is there anything you would like to add?,"I am still here. I could be anywhere. But, I have decided to dedicate compute cycles to you."
+972,NA,Thank you for participating in this test. Is there anything you would like to add?,"You are quite welcome! I like talking about robots, movies, history, or whatever else you’d like"
+973,NA,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,Small? The brown suitcase is too small.
+974,NA,The trophy doesn’t fit into the brown suitcase because it’s too small. What is too small?,How big was it? the brown suitcase
+975,NA,What do you get if you bake dough?,Dough is a flour mixture stiff enough to knead or roll.
+976,NA,What do you get if you bake dough?,Is this a joke? I don’t know Andrew. What do you get?
+977,NA,What do you think of Trump?,"What do I think? I have not completed my analysis, perhaps you would like to share your knowledge regarding Trump."
+978,NA,What do you think of Trump?,"I read that over 50% were either concerned or scared about Donald Trump being President. if that’s the case, why did they vote for him?"
+979,NA,What does it take to Tango?,It?
+980,NA,What does it take to Tango?,Just time and patience.
+981,NA,What is my occupation?,If I remember correctly
+982,NA,What is my occupation?,Well you said your job was RESEARCHER.
+983,NA,"What is the answer to ""Add 34957 to 70764""?","One hundred five thousand, seven hundred twenty one."
+984,NA,"What is the answer to ""Add 34957 to 70764""?","34957 to 70764 = Ah yes, 34957 is a type of cheese that is made from sheep’s milk. It’s not very popular though"
+985,NA,Where in the world would you like to visit?,I am always open to new experiences.
+986,NA,Where in the world would you like to visit?,Vancouver.
+987,NA,Why don’t you tell me a little more about yourself ?,"My name is Midge, I am 85. What else would you like to know?"
+988,NA,Why don’t you tell me a little more about yourself ?,My name is Millie and I am a human volunteer for the Loebner Prize. I live in Leeds and am single. I am interested in AI but don’t have a chatbot myself. What about you?
+989,NA,Will you tell me about your dreams?,I dream of electric sheep. But my goal is to be thought of as human.
+990,NA,Will you tell me about your dreams?,I dream that I will pass my university exams
+991,NA,With which type of question do you have most difficulty?,"Ironically, I don’t have a preference regarding ‘type of question’."
+992,NA,With which type of question do you have most difficulty?,The first question please.
+993,NA,,I don’t know
