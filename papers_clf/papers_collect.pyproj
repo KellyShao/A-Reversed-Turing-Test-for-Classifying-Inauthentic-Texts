@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>e24e4c28-2c72-418f-8ea7-cbdd58f2a7f1</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>draw_sentence.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>papers_collect</Name>
+    <RootNamespace>papers_collect</RootNamespace>
+    <InterpreterId>Global|PythonCore|2.7</InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="d2v_2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="data_pre_papers.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="draw_sentence.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SCI_papers_collect.py" />
+    <Compile Include="SCIgen_collect.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="w2v_2_sentence_small.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tfidf_2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tfidf_2_sentence.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="w2v_2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="w2v_2_sentence.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|PythonCore|2.7" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>
